@@ -25,3 +25,9 @@
 + Scrapy does not work well with javaScript-based websites.
 + Various operating systems have different installation techniques for Scrapy.
 + Python 2.7+ is necessary for Scrapy.
+
+### Library name: **Selenium**
+
+### Main features:
++ Javascript execution is a crucial component of web scraping. Selenium gives you access to a fully functional Javascript code interpreter that runs in the background and gives us complete control over the page document and a significant part of the browser.
++ In web scraping, rendering images is a common but time-consuming task. You can command the Chrome browser to skip image rendering through the chrome_options keyword argument in Selenium.
