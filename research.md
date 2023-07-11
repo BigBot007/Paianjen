@@ -8,6 +8,6 @@
 * While working on the library, Beautiful Soup offers a strong community to address all web scraping challenges for both new and experienced developers.
 * The primary benefit of using Beautiful Soup for developers is that it offers excellent and thorough documentation.
 
-#Cons of BeautifulSoup:
-+The use of proxies is not simple with BeautifulSoup. As a result, using BeautifulSoup to download vast volumes of data from the same site without having your IP blacklisted or banned is difficult.
-+BeautifulSoup can't function independently as a parser. It requires you to install dependencies before using it.
+# Cons of **BeautifulSoup**:
++ The use of proxies is not simple with BeautifulSoup. As a result, using BeautifulSoup to download vast volumes of data from the same site without having your IP blacklisted or banned is difficult.
++ BeautifulSoup can't function independently as a parser. It requires you to install dependencies before using it.
