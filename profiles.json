@@ -1,0 +1,42 @@
+{
+    "profiles": [
+        {
+            "name":"Decrypt.co", 
+            "base_url": "https://decrypt.co/",
+            "css_selectors" : [
+                {
+                    "title_path":"css"
+                },    
+                {
+                    "teaser_path":"css"
+                },
+                {
+                    "content_path":"css"
+                }  
+
+            ]
+            
+        },
+        
+        {
+            "name": "The defiant.co",
+            "base_url": "https://thedefiant.io/",
+            "css_selectors" : [
+                {
+                    "title_path": "css"
+                },
+                {
+                    "teaser_path":"css"
+                },
+                {
+                    "content_path":"css"
+                }
+
+            ]
+            
+        }
+
+    ]
+    
+    
+}
